@@ -1,0 +1,2 @@
+# Contaminantes-en-la-Ciudad-de-Mexico-2015-a-2023-Python
+Análisis exploratorio de datos (EDA) de contaminantes atmosféricos y partículas suspendidas (PST, PM10, PM2.5 y Plomo). Utilizando Python y de datos de la Red de Meteorología y Radiación Solar (REDMET), en este proyecto se analizaron los registros de partículas en la Ciudad de México del año 2015 a 2023, para identificar patrones estacionales.
